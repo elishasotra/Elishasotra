@@ -1,26 +1,28 @@
 <div align="center">
 
-# 👋 Hey, I'm **Elisha Sotra**
+# 👋 Hi, I'm **Elisha Sotra**
 
-### 🚀 AI & Full-Stack Developer | Builder | Founder @ NorthForge
+### 🐍 Python Backend & AI Developer
 
-**I build AI-powered applications, intelligent automation systems, and modern web experiences.**
+**I build backend systems, AI applications, automation workflows, and digital products.**
+
+Founder of **NorthForge** — a digital solutions studio building modern technology for businesses.
 
 <br>
 
 <a href="https://github.com/elishasotra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="mailto:elishasotrawork@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://northforge-web.vercel.app/">
-  <img src="https://img.shields.io/badge/NorthForge-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/NorthForge-111111?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Building%20Ideas%20Into%20Products&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Build.%20Learn.%20Ship.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:0f172a,50:1e3a8a,100:2563eb">
 
 </div>
 
@@ -28,38 +30,48 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Elisha Sotra**, an AI & Full-Stack Developer from India.
+I'm **Elisha Sotra**, a developer from India focused on **Python backend development and applied AI**.
 
-I enjoy turning ideas into real products — from **AI-powered applications and RAG systems** to **modern websites, automation platforms, and interactive digital experiences**.
+I enjoy taking an idea from a rough concept and turning it into a working system — whether that's an API, an AI application, an automation workflow, or a complete digital product.
 
-I'm especially interested in the intersection of:
+My current interests sit around:
 
-* 🤖 Artificial Intelligence
-* 🌐 Full-Stack Development
-* ⚙️ Automation
-* 🧠 RAG & LLM Applications
-* 🎨 Creative Web Experiences
-* 🚀 Building real-world products
+* 🐍 Python & Django
+* 🔌 REST APIs & backend architecture
+* 🤖 LLM applications
+* 🧠 RAG & document intelligence
+* 🎙️ Voice AI & intelligent assistants
+* ⚙️ Automation & API orchestration
+* 🌐 Full-stack web development
+* 🚀 Building products around real-world problems
 
 ```text
-Think → Build → Break → Learn → Improve → Ship
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the system
+  ↓
+Build
+  ↓
+Test
+  ↓
+Break it
+  ↓
+Improve it
+  ↓
+Ship 🚀
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+### 🐍 Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-<br><br>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 <br><br>
 
@@ -69,7 +81,13 @@ Think → Build → Break → Learn → Improve → Ship
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+<br><br>
+
+### 🤖 AI & Computer Vision
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
@@ -81,364 +99,213 @@ Think → Build → Break → Learn → Improve → Ship
 
 <br><br>
 
-### 🔧 Tools & Development
+### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 
 <br><br>
 
 ### ☁️ Deployment
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,aws" />
+<img src="https://skillicons.dev/icons?i=vercel,docker" />
 
 </div>
 
 ---
 
-# 🏢 NorthForge
+# 🚧 Currently Building
 
-### Building Digital Experiences for Businesses
+## 🤖 Jarvis — Personal AI Voice Assistant
 
-**NorthForge** is my web development & digital solutions studio.
+One of my current projects is **Jarvis**, a personal AI assistant focused on voice interaction, intelligent task execution, and automation.
 
-We help businesses build modern digital experiences and technology solutions.
+The goal is to move beyond a simple chatbot and create an assistant capable of understanding voice commands, reasoning about tasks, using tools, and interacting with external systems.
 
-### What we build
-
-* 🌐 Premium business websites
-* 📱 Responsive web applications
-* 📲 WhatsApp automation
-* 🍽️ QR-based table ordering systems
-* 📊 Business analytics
-* 🤖 AI-powered solutions
-* ⚡ Custom digital systems
-
-🌐 **Website:**
-https://northforge-web.vercel.app/
-
-
-
----
-
-# 🧠 How I Think About AI
-
-<div align="center">
+### Exploring
 
 ```text
-                 ┌─────────────────┐
-                 │   Artificial    │
-                 │  Intelligence   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      LLMs       │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   RAG / Memory  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   AI Agents     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   Automation    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Real Products   │
-                 └─────────────────┘
+🎙️ Speech-to-Text
+        ↓
+🧠 LLM Reasoning
+        ↓
+🤖 Agent / Orchestration Layer
+        ↓
+🔧 Tools & APIs
+        ↓
+⚡ Task Execution
+        ↓
+🔊 Text-to-Speech
 ```
 
-</div>
+### Current areas
+
+* 🎙️ Voice interaction
+* 🧠 LLM-powered reasoning
+* 🔊 Text-to-Speech
+* 👂 Wake-word detection
+* 🤖 AI agents
+* 🔗 API & tool orchestration
+* 📱 Device notifications
+* 🔐 Voice-based authentication
+
+**Status:** `🚧 In Development`
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Work
 
 ## 🤖 AI Document Intelligence Platform
 
-An AI-powered document intelligence platform built around **Retrieval-Augmented Generation (RAG)**.
+An AI-powered document intelligence system designed to let users interact with their documents using natural language.
 
-The system allows users to interact with documents using natural language and retrieve context-aware information.
+The system combines document processing, semantic retrieval, and **Retrieval-Augmented Generation (RAG)** to produce context-aware responses.
 
-### 🔥 Highlights
+### Core concepts
 
-* 📄 Document processing
-* 🔎 Semantic search
-* 🧠 Retrieval-Augmented Generation
-* 💬 AI-powered document conversations
-* ⚡ REST APIs
-* 📚 Context-aware responses
-* 🏗️ Django backend architecture
+`Document Processing` · `Semantic Search` · `RAG` · `LLMs` · `REST APIs`
 
-### Tech
+**Built with:**
+`Python` `Django` `REST API` `RAG` `Vector Search`
 
-`Python` `Django` `REST API` `RAG` `LLMs` `Vector Search`
+🔗 **Repository:** `Coming soon / add repository`
 
 ---
 
 ## 🎹 Web Piano
 
-An interactive browser-based piano built using **Tone.js**.
+An interactive browser-based piano built with **Tone.js**.
 
-🎹 **Live Project:**
-https://elishasotra.github.io/Web-Piano/
+The project combines frontend development, browser audio, keyboard interaction, and musical controls into a playable web experience.
 
 ### Features
 
-* 🎼 Interactive piano keyboard
+* 🎹 Interactive piano keyboard
 * 🎵 Browser-based audio
-* 🎹 MIDI-style interaction
-* 🔊 Tone.js audio engine
-* 🎛️ Keyboard controls
+* ⌨️ Keyboard controls
 * 🎚️ Octave controls
 * 🔄 Transpose functionality
+* 🎛️ Tone.js audio engine
 
-### Tech
-
+**Built with:**
 `JavaScript` `Tone.js` `HTML` `CSS`
+
+🎹 **[Live Demo](https://elishasotra.github.io/Web-Piano/)**
 
 ---
 
 ## 🏠 He&She PG Booking
 
-A digital platform focused on **PG discovery and booking in Bangalore**.
+A digital PG discovery and booking platform focused on Bangalore.
 
-🌐 **Website:**
-https://heandshepg.com/
+The platform is designed around property discovery and a simple user experience for people looking for PG accommodation.
 
-### Concept
+### Focus
 
 * 🏠 PG listings
 * 📍 Location-based discovery
-* 👤 User-focused experience
-* 📱 Responsive interface
-* 🔎 Property discovery
+* 🔎 Property browsing
+* 📱 Responsive experience
+* 👤 User-focused interface
 
-### Tech
-
-`Web Development` `JavaScript` `Frontend` `Backend`
+🌐 **[Visit Website](https://heandshepg.com/)**
 
 ---
 
-## 📍 Business Opportunity Engine
+## 👤 Face Recognition Attendance System
 
-A backend system designed to discover local businesses and identify potential business opportunities.
+A computer-vision based attendance system designed to identify registered faces and automate attendance recording.
 
-The project uses **OpenStreetMap-based services** for business discovery and location intelligence.
+### Concepts
 
-### Features
+* 📷 Face detection
+* 🧠 Face recognition
+* 👤 Identity matching
+* 📊 Attendance recording
+* ⚙️ Automated workflow
 
-* 📍 Location-based business discovery
-* 🗺️ OpenStreetMap integration
-* 🔎 Business discovery
-* 📊 Structured business information
-* ⚙️ Backend APIs
-* 🌎 Geographic search
-
-### Tech
-
-`Python` `Django` `OpenStreetMap` `Nominatim` `Overpass API` `REST API`
+**Focus:**
+`Python` `Computer Vision` `OpenCV` `Face Recognition`
 
 ---
 
-## 🎯 Course Recommender
+# 🏢 NorthForge
 
-A Streamlit-based recommendation application designed to help users discover suitable courses.
+## Building Digital Solutions for Businesses
 
-### Tech
+**NorthForge** is my web development and digital solutions studio.
 
-`Python` `Streamlit` `Machine Learning`
+I work on digital experiences and technology systems designed around real business needs.
 
----
+### What I build
 
-# 🧪 AI Experiment Lab
-
-I'm continuously experimenting with new ideas around AI and automation.
+* 🌐 Business websites
+* 📱 Responsive web applications
+* 🍽️ QR-based table ordering
+* 📲 WhatsApp automation
+* 📊 Business analytics
+* 🤖 AI integrations
+* ⚡ Custom digital systems
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│               AI EXPERIMENT LAB             │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🤖 AI Agents                               │
-│  🧠 RAG Systems                             │
-│  🎙️ Voice Assistants                        │
-│  🔗 LLM Workflows                           │
-│  ⚡ Business Automation                     │
-│  📡 API Orchestration                       │
-│  🎯 Recommendation Systems                  │
-│  🗂️ Document Intelligence                   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<a href="https://northforge-web.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20NorthForge-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 🎯 What I Like Building
+# 🧠 AI & Engineering Interests
 
-### 🤖 AI Applications
-
-```text
-AI Applications
-      │
-      ├── RAG Systems
-      ├── AI Agents
-      ├── Document Intelligence
-      └── Intelligent Automation
-```
-
-### 🌐 Web Applications
+I'm particularly interested in systems where **AI connects to real software and real actions**.
 
 ```text
-Web Applications
-      │
-      ├── React / Next.js
-      ├── Django
-      ├── REST APIs
-      └── Interactive Experiences
+                    ┌──────────────┐
+                    │     LLM      │
+                    └──────┬───────┘
+                           │
+            ┌──────────────┼──────────────┐
+            ↓              ↓              ↓
+          RAG           Agents         Memory
+            │              │              │
+            └──────────────┼──────────────┘
+                           ↓
+                    ┌──────────────┐
+                    │ Tools / APIs │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │ Automation   │
+                    └──────┬───────┘
+                           ↓
+                    🚀 Real Product
 ```
 
-### 🏢 Business Systems
+### 🔬 Exploring
 
-```text
-Business Systems
-      │
-      ├── Automation
-      ├── Lead Discovery
-      ├── Analytics
-      └── Digital Platforms
-```
+* 🤖 AI Agents
+* 🧠 Retrieval-Augmented Generation
+* 📄 Document Intelligence
+* 🎙️ Voice AI
+* 🔗 LLM workflows
+* ⚙️ Intelligent automation
+* 📡 API orchestration
+* 🧩 AI-powered business systems
 
 ---
 
-# 🧩 Development Philosophy
+# 🧩 Engineering Principles
 
-> **Don't just build software. Build something people can actually use.**
+I try to keep my engineering approach simple:
+
+**Understand → Design → Build → Test → Improve**
 
 I care about:
 
-* 🧠 Understanding the problem first
-* 🏗️ Building maintainable systems
-* ⚡ Creating good user experiences
-* 🔐 Security and reliability
+* 🧠 Solving the actual problem
+* 🏗️ Maintainable architecture
+* 🔌 Clean APIs
+* 🔐 Security
 * 🔄 Reversible actions
-* 📊 Real-world usefulness
-* 🚀 Shipping instead of endlessly planning
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=elishasotra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elishasotra&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=elishasotra&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elishasotra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elishasotra&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/elishasotra/elishasotra/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🌐 Find Me
-
-<div align="center">
-
-<a href="https://github.com/elishasotra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:elishasotrawork@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://northforge-web.vercel.app/">
-  <img src="https://img.shields.io/badge/NorthForge-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 🎸 Beyond Code
-
-When I'm not coding, you'll probably find me playing:
-
-🎸 **Guitar**
-🎹 **Piano / Keyboard**
-🥁 **Drums**
-
-I enjoy combining **technology + creativity** to create things that feel interactive and alive.
-
----
-
-# ⚡ Fun Fact
-
-```text
-I think I'm funny.
-
-My code doesn't always agree. 😄
-```
-
----
-
-<div align="center">
-
-## 🚀 Let's build something interesting.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=150&section=footer" />
-
-</div>
+* ⚡ Good user ex
